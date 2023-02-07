@@ -15,3 +15,6 @@ All the commands have to be execute at the project root
 
 ### Access to the web page
 http://localhost
+
+### Follow the logs
+    tail -f ./nginx/logs/access.log
